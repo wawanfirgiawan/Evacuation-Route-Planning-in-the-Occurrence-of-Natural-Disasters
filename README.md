@@ -3,7 +3,9 @@
 Bencana alam seperti gempa bumi, tsunami, dan banjir sering kali menimbulkan kekacauan dan memerlukan strategi evakuasi yang cepat dan efektif. Pada saat-saat kritis seperti itu, menentukan rute yang paling efisien menuju tempat yang aman merupakan tugas yang menyelamatkan nyawa. Repositori ini menyajikan simulasi dan perbandingan tiga algoritme yang digunakan untuk perencanaan rute evakuasi:
 
 🐜 Ant Colony Optimization (ACO) — terinspirasi oleh kecerdasan kawanan.
+
 🔎 Breadth-First Search (BFS) — penelusuran grafik klasik yang tidak terinformasi.
+
 🔁 Depth-First Search (DFS) — pendekatan eksplorasi berbasis kedalaman.
 
 Tujuan dari proyek ini adalah untuk menganalisis dan memvisualisasikan bagaimana setiap algoritme bekerja dalam memecahkan masalah evakuasi, khususnya dalam hal kecepatan, akurasi, dan penemuan jalur yang optimal.
